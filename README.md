@@ -26,7 +26,7 @@ https://github.com/TalkingSkunk/homework1
 
 **What was the problem?**
 - The HTML, prior to the execution of our project, was not up to par with Accessibility Standards.
-  - The index.html was missing semantic elements, and only had &lt;div&rt; tags.
+  - The index.html was missing semantic elements, and only had &lt;div&rt;  tags.
 - the CSS file had too many redundancies that could have been simplified to make the code looks cleaner and shorter.
 
 **What would be the foreseeable consequences of the problem?**
@@ -40,7 +40,7 @@ https://github.com/TalkingSkunk/homework1
 
 **What have we done about it?**
 - We made the HTML compliant with the Accessibility Standards.
-  - We removed the &lt;div&rt; tags and replaced them with semantic elements, such as &lt;header&rt;, &lt;nav&rt;, &lt;section&rt;, &lt;article&rt;, &lt;aside&rt;, and &lt;footer&rt;.
+  - We removed the &lt;div&rt;  tags and replaced them with semantic elements, such as &lt;header&rt; , &lt;nav&rt; , &lt;section&rt; , &lt;article&rt; , &lt;aside&rt; , and &lt;footer&rt; .
 - We simplified CSS and removed the superfluous repetitions of properties and selectors.
 - we fixed the non-functional link element on top of the page "Search Engine Optimization".
 
