@@ -54,9 +54,8 @@ All you need is a working computer or a smartphone, and access to Internet!
 
 There is no instruction for use and there is no example for use.
 
-```md
 ![Screenshot of working website](./assets/images/screenshot1.png)
-```
+
 
 
 ## Credits
