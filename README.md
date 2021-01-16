@@ -9,7 +9,7 @@ https://github.com/TalkingSkunk/homework1
 
 ## Table of Contents
 
-* [Description](##Description)
+* [Description](##description)
 * [Installation](##installation)
 * [Usage](##usage)
 * [Credits](##credits)
