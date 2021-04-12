@@ -1,10 +1,10 @@
 # Homework1 (Due Week 1)
 
 **Deployed application URL**
-https://talkingskunk.github.io/debugging/
+https://talkingskunk.github.io/Debugging/
 
 **GitHub Repository URL**
-https://github.com/TalkingSkunk/debugging
+https://github.com/TalkingSkunk/Debugging
 
 
 ## Table of Contents
